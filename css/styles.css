@@ -17,4 +17,13 @@
 .currentWork{
   margin-bottom: 50px;
 }
-
+.fotos  img{
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.fotos {
+  border: 1px solid darkblue;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
