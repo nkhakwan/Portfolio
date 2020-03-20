@@ -5,6 +5,11 @@
   border: 6px solid darkgreen;
 }  
 .fright {
-border: 1px solid darkgreen;
-margin-top: 50px;
+  border: 1px solid darkgreen;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.well {
+  border: 1px solid darkgreen;
 }
