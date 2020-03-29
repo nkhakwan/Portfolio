@@ -1,16 +1,24 @@
+# Portfolio
 # Author : KhanSahab
 # Program: Week1 Project for introduction to Programming
-# _Description:_  **Portfolio** is about me. This tells who i am
+# _Description:_  
+##### **Portfolio** is about me. This tells who i am.Portfolio was prepared today by me as an independent project for Epicodus to give others idea who really i am and what are my intersts in life
 
-[Click here](https://nkhakwan.github.io/Portfolio/) to check out the page on gh-pages.
 
-* #### Portfolio was prepared today by me as an independent project for Epicodus to give others idea who really i am and what are my intersts in life
-* #### Portfolio has my picture and has the pictures of my friends. 
-* #### Portfolio highlights my education received in the past and my educational aspirations for the future
-* #### Portfolio touches briefly the objectives of my life in the future and catches my thoughts in the quotes given there
-* #### I used bootstrap.css for style sheet and overrode it with my personalized style sheet that i created today
-* #### All the block and inline elements covered in the week for HTML were used. p, ul, ol, h, a, img, div, span; all of them used.
-* #### All the boot strap helper classes and other line panel, well, container, Jumbotron, bg-warning, text-important etc were used.
+
+## Setup.
+##### [Just Click here](https://nkhakwan.github.io/Portfolio/) to check out the page on gh-pages.
+
+## Technologies used.
+
+* ####  picture pasting in HTML
+* ####  Using BootStrap libs.
+* ####  OverRiding bootstrap.css with personal stylesheet.
+* #### 
+* ####  p, ul, ol, h, a, img, div, span; all of them used.
+* ####  Bootstrap helper classes and other line panel, well, container, Jumbotron, bg-warning, text-important etc.
 * #### Row and Column Grids were also used.
-# This is not an Open source code and there are restriciton on copying my photographs from it.
-# Submitted:March 20, 2020  Updated README only: March 29, 2020
+## Legal
+##### Copyright (c) KhanSahab at Post_khan@yahoo.com
+##### This software is licensed under Epicodus Training purposes.
+#### Submitted:March 20, 2020  Updated README only: March 29, 2020
