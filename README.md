@@ -1,7 +1,9 @@
 # Author : KhanSahab
 # Program: Week1 Project for introduction to Programming
-# _Description:_
-## _Portfolio_ is about me. This tells who i am
+# _Description:_  **Portfolio** is about me. This tells who i am
+
+[Click here](https://nkhakwan.github.io/Portfolio/) to check out the page on gh-pages.
+
 * #### Portfolio was prepared today by me as an independent project for Epicodus to give others idea who really i am and what are my intersts in life
 * #### Portfolio has my picture and has the pictures of my friends. 
 * #### Portfolio highlights my education received in the past and my educational aspirations for the future
@@ -12,4 +14,3 @@
 * #### Row and Column Grids were also used.
 # This is not an Open source code and there are restriciton on copying my photographs from it.
 # Submitted:March 20, 2020  Updated README only: March 29, 2020
-[Click here](https://nkhakwan.github.io/Portfolio/) to check out the page on gh-pages.
